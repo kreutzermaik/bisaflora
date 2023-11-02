@@ -25,7 +25,7 @@
   },
   {
     "title": "Gasteria Flow",
-    "imagePath": "/duftender_drachenbaum.jpg",
+    "imagePath": "/gasteria.png",
     "water": 14,
     "season": "IMMER",
     "sun": "VOLL",
@@ -33,7 +33,7 @@
   },
   {
     "title": "Grünlilie",
-    "imagePath": "/duftender_drachenbaum.jpg",
+    "imagePath": "/gruenlilie.png",
     "water": 7,
     "season": "IMMER",
     "sun": "TEILWEISE",
@@ -41,10 +41,58 @@
   },
   {
     "title": "Philodendrom Moonlight",
-    "imagePath": "/duftender_drachenbaum.jpg",
+    "imagePath": "/philodendrom.png",
     "water": 7,
     "season": "IMMER",
     "sun": "TEILWEISE",
     "category": "WOHNZIMMER"
+  },
+  {
+    "title": "Ananas",
+    "imagePath": "/ananas.png",
+    "water": 7,
+    "season": "IMMER",
+    "sun": "VOLL",
+    "category": "WOHNZIMMER"
+  },
+  {
+    "title": "Gerandeter Drachenbaum",
+    "imagePath": "/gerandeter_drachenbaum.png",
+    "water": 7,
+    "season": "IMMER",
+    "sun": "TEILWEISE",
+    "category": "WOHNZIMMER"
+  },
+  {
+    "title": "Besenheide",
+    "imagePath": "/besenheide.png",
+    "water": 7,
+    "season": "IMMER",
+    "sun": "VOLL",
+    "category": "WOHNZIMMER"
+  },
+  {
+    "title": "Orchidee Lila",
+    "imagePath": "/orchidee2.png",
+    "water": 7,
+    "season": "IMMER",
+    "sun": "TEILWEISE",
+    "category": "KÜCHE"
+  },
+  {
+    "title": "Orchidee Weiß",
+    "imagePath": "/orchidee1.png",
+    "water": 7,
+    "season": "IMMER",
+    "sun": "TEILWEISE",
+    "category": "WOHNZIMMER"
+  },
+  {
+    "title": "Monstera Deliciosa",
+    "imagePath": "/monstera.png",
+    "water": 7,
+    "season": "IMMER",
+    "sun": "TEILWEISE",
+    "category": "GARTEN"
   }
 ]
