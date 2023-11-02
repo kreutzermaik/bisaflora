@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Hortensien",
+    "imagePath": "/hortensien.jpg",
+    "water": 7,
+    "season": "SOMMER",
+    "sun": "VOLL",
+    "category": "VORGARTEN"
+  },
+  {
+    "title": "Yukka Palme",
+    "imagePath": "/yukka.png",
+    "water": 14,
+    "season": "IMMER",
+    "sun": "TEILWEISE",
+    "category": "WOHNZIMMER"
+  },
+  {
+    "title": "Duftender Drachenbaum",
+    "imagePath": "/duftender_drachenbaum.jpg",
+    "water": 7,
+    "season": "IMMER",
+    "sun": "TEILWEISE",
+    "category": "ARBEITSZIMMER"
+  },
+  {
+    "title": "Gasteria Flow",
+    "imagePath": "/duftender_drachenbaum.jpg",
+    "water": 14,
+    "season": "IMMER",
+    "sun": "VOLL",
+    "category": "ARBEITSZIMMER"
+  },
+  {
+    "title": "Grünlilie",
+    "imagePath": "/duftender_drachenbaum.jpg",
+    "water": 7,
+    "season": "IMMER",
+    "sun": "TEILWEISE",
+    "category": "WOHNZIMMER"
+  },
+  {
+    "title": "Philodendrom Moonlight",
+    "imagePath": "/duftender_drachenbaum.jpg",
+    "water": 7,
+    "season": "IMMER",
+    "sun": "TEILWEISE",
+    "category": "WOHNZIMMER"
+  }
+]
