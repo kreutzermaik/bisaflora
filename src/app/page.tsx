@@ -33,12 +33,12 @@ export default function Home() {
                 <h1 className="lg:text-5xl text-3xl mb-6 font-semibold">👨‍🌾🌳 Unsere Pflanzen</h1>
 
                 <div className="flex gap-2 mb-6 flex-wrap">
-                    <Chip name="Alle" color="orange" onClick={() => setPlants(plantsData)} />
-                    <Chip name="Wohnzimmer" color="blue" onClick={() => filterItems("Wohnzimmer")} />
-                    <Chip name="Arbeitszimmer" color="fuchsia"  onClick={() => filterItems("Arbeitszimmer")} />
-                    <Chip name="Küche" color="yellow"  onClick={() => filterItems("Küche")} />
-                    <Chip name="Garten" color="green"  onClick={() => filterItems("Garten")} />
-                    <Chip name="Vorgarten" color="cyan"  onClick={() => filterItems("Vorgarten")} />
+                    <Chip name="Alle" onClick={() => setPlants(plantsData)} />
+                    <Chip name="Wohnzimmer" onClick={() => filterItems("Wohnzimmer")} />
+                    <Chip name="Arbeitszimmer" onClick={() => filterItems("Arbeitszimmer")} />
+                    <Chip name="Küche" onClick={() => filterItems("Küche")} />
+                    <Chip name="Garten" onClick={() => filterItems("Garten")} />
+                    <Chip name="Vorgarten" onClick={() => filterItems("Vorgarten")} />
                 </div>
 
                 {
